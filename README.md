@@ -160,7 +160,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/muslimshah6177/Business_Insights_360/blob/main/resources/Data_model.png" class="center">
+<img src="https://github.com/sayed-m-shah/Business_Insights_360/blob/main/resources/Data_model.png" class="center">
 
 ### Dashboard designing
 
@@ -181,36 +181,36 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/muslimshah6177/Business_Insights_360/blob/main/resources/Overall.gif)
+![Overall Report.gif](https://github.com/sayed-m-shah/Business_Insights_360/blob/main/resources/Overall.gif)
 
 ## Info Page
 
-![Info.gif](https://github.com/muslimshah6177/Business_Insights_360/blob/main/resources/Info.gif)
+![Info.gif](https://github.com/sayed-m-shah/Business_Insights_360/blob/main/resources/Info.gif)
 
 ## Finance View
 
-![Finace.gif](https://github.com/muslimshah6177/Business_Insights_360/blob/main/resources/Finace.gif)
+![Finace.gif](https://github.com/sayed-m-shah/Business_Insights_360/blob/main/resources/Finace.gif)
 ## Sales View
 
-![Sales.gif](https://github.com/muslimshah6177/Business_Insights_360/blob/main/resources/Sales.gif)
+![Sales.gif](https://github.com/sayed-m-shah/Business_Insights_360/blob/main/resources/Sales.gif)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/muslimshah6177/Business_Insights_360/blob/main/resources/Marketing.gif)
+![Marketing.gif](https://github.com/sayed-m-shah/Business_Insights_360/blob/main/resources/Marketing.gif)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/muslimshah6177/Business_Insights_360/blob/main/resources/supply%20chain.gif)
+![Supply chain.gif](https://github.com/sayed-m-shah/Business_Insights_360/blob/main/resources/supply%20chain.gif)
 
 ## Executive View
 
-![Executive.gif](https://github.com/muslimshah6177/Business_Insights_360/blob/main/resources/Executive.gif)
+![Executive.gif](https://github.com/sayed-m-shah/Business_Insights_360/blob/main/resources/Executive.gif)
 
 ## Products
 
-![Products](https://github.com/muslimshah6177/Business_Insights_360/blob/main/resources/Products%20View.gif)
+![Products](https://github.com/sayed-m-shah/Business_Insights_360/blob/main/resources/Products%20View.gif)
 
-you can find the full report file here : [Report](https://github.com/muslimshah6177/Business_Insights_360/blob/main/360.pbix)
+you can find the full report file here : [Report](https://github.com/sayed-m-shah/Business_Insights_360/blob/main/360.pbix)
 
 
 ## Project Outcome
